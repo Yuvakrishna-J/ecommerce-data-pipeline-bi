@@ -7,10 +7,10 @@ An enterprise-grade analytical pipeline and interactive reporting dashboard simu
 ## 📊 Live Dashboard & Interactivity Preview
 
 **Global Overview (All Regions):**
-![Dashboard Main](dashboard_main.png)
+![Dashboard Main](dashboard_main.png.png)
 
 **Interactive Cross-Filtering (Regional View):**
-![Dashboard Filtered](dashboard_filtered.png)
+![Dashboard Filtered](dashboard_filtered.png.png)
 
 ---
 
