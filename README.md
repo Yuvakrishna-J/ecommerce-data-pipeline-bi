@@ -9,8 +9,11 @@ An enterprise-grade analytical pipeline and interactive reporting dashboard simu
 **Global Overview (All Regions):**
 ![Dashboard Main](dashboard_main.png.png)
 
-**Interactive Cross-Filtering (Regional View):**
-![Dashboard Filtered](dashboard_filtered.png.png)
+**Interactive Cross-Filtering (Video Demonstration):**
+
+https://github.com/user-attachments/assets/1e1b39cb-5e33-48b5-851e-c21f12378ab8
+
+
 
 ---
 
